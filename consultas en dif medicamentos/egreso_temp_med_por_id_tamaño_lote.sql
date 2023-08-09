@@ -1,0 +1,1 @@
+SELECT * FROM farmacia.egreso_temp where id_medicamento = 668 and tamano = 10  and lote = "LIC 132 (R)";
